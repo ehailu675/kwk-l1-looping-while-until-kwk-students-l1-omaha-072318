@@ -1,3 +1,6 @@
 dog_names = ["Blaze", "Belle", "Willow", "Crockett"]
 
-puts dog_names
+# 
+
+memes = ["Croissant", "blinking white guy", 'my existence']
+

@@ -4,4 +4,4 @@ dog_names = ["Blaze", "Belle", "Willow", "Crockett"]
 
 sisters = ["Ruth", "Hannah"]
 
-puts sisters[0]
+puts dog_names[3]

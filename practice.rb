@@ -1,7 +1,7 @@
 dog_names = ["Blaze", "Belle", "Willow", "Crockett"]
-
+ dog_names.push("Rihanna")
+ puts dog_names
 # 
 
 sisters = ["Ruth", "Hannah"]
 
-puts dog_names.first
